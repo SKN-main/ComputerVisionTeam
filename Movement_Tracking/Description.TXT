@@ -1,0 +1,2 @@
+For now it can only track simple movement (created for round objects)
+Work in progress
